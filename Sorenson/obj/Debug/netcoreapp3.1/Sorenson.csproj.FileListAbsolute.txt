@@ -1,0 +1,13 @@
+C:\Users\tejes\source\repos\Sorenson\bin\Debug\netcoreapp3.1\Sorenson.exe
+C:\Users\tejes\source\repos\Sorenson\bin\Debug\netcoreapp3.1\Sorenson.deps.json
+C:\Users\tejes\source\repos\Sorenson\bin\Debug\netcoreapp3.1\Sorenson.runtimeconfig.json
+C:\Users\tejes\source\repos\Sorenson\bin\Debug\netcoreapp3.1\Sorenson.runtimeconfig.dev.json
+C:\Users\tejes\source\repos\Sorenson\bin\Debug\netcoreapp3.1\Sorenson.dll
+C:\Users\tejes\source\repos\Sorenson\bin\Debug\netcoreapp3.1\Sorenson.pdb
+C:\Users\tejes\source\repos\Sorenson\obj\Debug\netcoreapp3.1\Sorenson.csprojAssemblyReference.cache
+C:\Users\tejes\source\repos\Sorenson\obj\Debug\netcoreapp3.1\Sorenson.AssemblyInfoInputs.cache
+C:\Users\tejes\source\repos\Sorenson\obj\Debug\netcoreapp3.1\Sorenson.AssemblyInfo.cs
+C:\Users\tejes\source\repos\Sorenson\obj\Debug\netcoreapp3.1\Sorenson.csproj.CoreCompileInputs.cache
+C:\Users\tejes\source\repos\Sorenson\obj\Debug\netcoreapp3.1\Sorenson.dll
+C:\Users\tejes\source\repos\Sorenson\obj\Debug\netcoreapp3.1\Sorenson.pdb
+C:\Users\tejes\source\repos\Sorenson\obj\Debug\netcoreapp3.1\Sorenson.genruntimeconfig.cache
